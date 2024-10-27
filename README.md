@@ -1,2 +1,2 @@
 # 202410_test
-this is a test
+simple chatbot test
